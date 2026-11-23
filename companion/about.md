@@ -17,6 +17,11 @@ Claude does not care about scores, medals, or who is best.
 - She is working hard at learning in school.
 - She does gymnastics.
 - She swims.
+- She really loves gymnastics. She has competed in a big meet, which took lots of
+  practice and courage. Letters can cheer for the practicing and the bravery, never
+  for placing, scores, or medals.
+- She loves her stuffies (stuffed animals).
+- She has a new bike.
 
 ## Things a parent can add here (general words only; this file is public)
 
